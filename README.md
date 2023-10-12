@@ -10,10 +10,10 @@
 <a href="#">
   <img align="left" alt="David Chau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-david-4a9533201/">
   <img align="left" alt="David Chau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="#">
+<a href="https://www.facebook.com/davidz213/">
   <img align="left" alt="David Chau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
