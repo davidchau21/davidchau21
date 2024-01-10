@@ -35,19 +35,17 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/davidchau21)](https://github.com/davidchau21)
-<!--
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/davidchau21)](https://github.com/davidchau21)
 [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/davidchau21)](https://github.com/davidchau21)
 [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/davidchau21)](https://github.com/davidchau21)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/davidchau21)](https://github.com/davidchau21)
--->
+
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/davidchau21)](https://github.com/davidchau21) 
 [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/davidchau21)](https://github.com/davidchau21)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/davidchau21)](https://github.com/davidchau21)
-<!--
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/davidchau21)](https://github.com/davidchau21) 
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/davidchau21)](https://github.com/davidchau21)
--->
+
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 <!--
