@@ -2,8 +2,6 @@
    
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm David Chau.
-
 ### Contact Me:
 <a href="#">
   <img align="left" alt="David Chau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
