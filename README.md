@@ -45,11 +45,11 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
-<!--
+
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/davidchau21)](https://github.com/davidchau21)
--->
+
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/davidchau21)](https://github.com/davidchau21)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/davidchau21)](https://github.com/davidchau21) 
