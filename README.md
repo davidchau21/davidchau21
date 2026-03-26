@@ -193,67 +193,58 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 Chat Application</h3>
-      <p>A cross-platform messaging app (Web & Mobile) with OTP auth, real-time chat, video calls, group management and cloud storage</p>
+      <h3>📈 Crypto Web3 Tracker</h3>
+      <p>Decentralized cryptocurrency tracking platform with wallet integration, live charts and blockchain data</p>
       <p><strong>Tech Stack:</strong></p>
       <p>
-        <code>NodeJS</code>
-        <code>ExpressJS</code>
-        <code>ReactJS</code>
-        <code>React Native</code>
-        <code>TypeScript</code>
-        <code>Socket.io</code>
-        <code>MongoDB</code>
-        <code>AWS S3</code>
-        <code>Firebase</code>
+        <code>NextJS</code>
+        <code>Ethereum</code>
+        <code>Web3.js</code>
+        <code>Blockchain</code>
+        <code>TailwindCSS</code>
       </p>
-      <p><em>✅ Status: Completed (01/2024 - 05/2024)</em></p>
+      <p><em>⚡ Status: Active Development</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 eForum Blog Website</h3>
-      <p>AI-powered learning platform for students with <strong>Gemini chatbot</strong>, real-time messaging, community blog, and CMS</p>
+      <h3>🤖 OmniSearch: RAG Engine</h3>
+      <p>High-performance intelligent chatbot powered by Retrieval-Augmented Generation using Claude AI</p>
       <p><strong>Tech Stack:</strong></p>
       <p>
-        <code>NodeJS</code>
-        <code>ExpressJS</code>
-        <code>React + Vite</code>
-        <code>TailwindCSS</code>
-        <code>MongoDB</code>
-        <code>Socket.io</code>
-        <code>Gemini API</code>
-        <code>AWS S3</code>
+        <code>Golang</code>
+        <code>Claude API</code>
+        <code>LangChain Go</code>
+        <code>Vector DB</code>
+        <code>Docker</code>
       </p>
-      <p><em>✅ Status: Completed (08/2024 - 12/2024)</em></p>
+      <p><em>⚡ Status: Active Development</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Crypto Price Tracker</h3>
-      <p>Real-time cryptocurrency dashboard with live price updates, portfolio tracking, market charts and price alert notifications</p>
+      <h3>🛒 E-Commerce Platform</h3>
+      <p>Modern online shopping site with order management, payment integration, and reactive storefront</p>
       <p><strong>Tech Stack:</strong></p>
       <p>
-        <code>ReactJS</code>
-        <code>NodeJS</code>
-        <code>Socket.io</code>
-        <code>CoinGecko API</code>
-        <code>MongoDB</code>
-        <code>TailwindCSS</code>
+        <code>PHP</code>
+        <code>Laravel</code>
+        <code>VueJS</code>
+        <code>MySQL</code>
+        <code>Bootstrap</code>
       </p>
-      <p><em>⚡ Status: Active Development</em></p>
+      <p><em>📝 Status: Planned</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI RAG Chatbot</h3>
-      <p>Intelligent chatbot powered by Retrieval-Augmented Generation, multi-document knowledge base and vector search</p>
+      <h3>📚 EForum Horizon: AI Ecosystem</h3>
+      <p>Next-generation upgrade for student community with modern UI/UX, AI automated moderation, and smart study assistant</p>
       <p><strong>Tech Stack:</strong></p>
       <p>
-        <code>Python</code>
-        <code>LangChain</code>
-        <code>Gemini API</code>
-        <code>OpenAI</code>
-        <code>NodeJS</code>
-        <code>MongoDB</code>
+        <code>NextJS</code>
+        <code>NestJS</code>
+        <code>Gemini AI</code>
+        <code>PostgreSQL</code>
+        <code>TailwindCSS</code>
       </p>
-      <p><em>⚡ Status: Active Development</em></p>
+      <p><em>🚀 Status: Planned Upgrade</em></p>
     </td>
   </tr>
 </table>
