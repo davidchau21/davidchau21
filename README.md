@@ -11,7 +11,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5CC&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+%F0%9F%91%8B+I'm+Chau+Da+Vits;Fullstack+%26+Backend+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+building+%E2%80%94+always+learning+%F0%9F%9A%80;Exploring+AI+one+prompt+at+a+time+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5CC&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;Fullstack+Developer+%26+AI+Engineer+%F0%9F%9A%80;Building+smart+AI+%26+Blockchain+solutions+%E2%9A%A1;Turning+complex+ideas+into+reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- Shooting Star Divider -->
@@ -34,9 +34,9 @@
 
 ## 🚀 About Me
 
-### 👋 Hey there! I'm **Chau Da Vits**
+### 👋 Hey there! Welcome to my digital universe
 
-> *A curious Fullstack & Backend Developer who loves exploring AI, building things that actually work, and learning something new every day — from Vietnam 🇻🇳 with passion.*
+> *A passionate Fullstack Developer & AI Engineer who loves crafting intelligent AI Automations, building robust backend systems, and exploring Blockchain tech — from 🇻🇳 with passion.*
 
 <br>
 
