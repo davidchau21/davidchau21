@@ -1,12 +1,14 @@
 name: Generate Snake Animation
 
+# on:
+#   schedule:
+#     - cron: "0 */12 * * *"   # Chạy mỗi 12 tiếng
+#   push:
+#     branches:
+#       - main
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # Chạy mỗi 12 tiếng
-  workflow_dispatch:           # Chạy thủ công khi cần
-  push:
-    branches:
-      - main
+  workflow_dispatch:           # Chỉ cho phép chạy thủ công khi cần
+
 
 jobs:
   generate:
