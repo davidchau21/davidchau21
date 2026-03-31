@@ -1,7 +1,7 @@
 <!-- Space Banner with Stars -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:001a3a,50:003380,100:001a3a&height=300&section=header&text=DAVID%20CHAU&fontSize=90&fontColor=00E5CC&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descColor=FFE566)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:001a3a,50:003380,100:001a3a&height=300&section=header&text=DAVID%20CHAU&fontSize=90&fontColor=00E5CC&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20Backend%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descColor=FFE566)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -305,7 +305,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+84337499390">
-    <img src="https://img.shields.io/badge/Phone-0337499390-00b09b?style=for-the-badge&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-00b09b?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
   <a href="https://t.me/davidchau21">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
