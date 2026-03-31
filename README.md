@@ -1,7 +1,7 @@
 <!-- Space Banner with Stars -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:001a3a,50:003380,100:001a3a&height=300&section=header&text=DAVID%20CHAU&fontSize=90&fontColor=00E5CC&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Explorer&descAlignY=62&descAlign=50&descColor=FFE566)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:001a3a,50:003380,100:001a3a&height=300&section=header&text=DAVID%20CHAU&fontSize=90&fontColor=00E5CC&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descColor=FFE566)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -263,7 +263,7 @@
     <td align="center" width="25%">
       <br>
       <h3>🤖</h3>
-      <br><strong>AI Exploration</strong>
+      <br><strong>AI Engineering</strong>
       <br><sub>Playing with LLMs, AI Agents, RAG & Prompt Engineering</sub>
     </td>
     <td align="center" width="25%">
